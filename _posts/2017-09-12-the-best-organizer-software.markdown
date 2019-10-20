@@ -7,5 +7,5 @@ img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 <div>
-	<iframe height=650 width=1100 src='https://player.youku.com/embed/XNDQwNTk0Mjk5Ng==' frameborder=0 'allowfullscreen'></iframe>
+	<iframe height=498 width=510 src='https://player.youku.com/embed/XNDQwNTkwMjk2NA==' frameborder=0 'allowfullscreen'></iframe>
 </div>
