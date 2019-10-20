@@ -7,13 +7,4 @@ img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-<div id="youkuplayer"style="width:580px;height:326px"></div>
-<script type="text/javascript" src="//player.youku.com/jsapi"></script>
-<script type="text/javascript">
-var player = new YKU.Player('youkuplayer',{
-styleid: '0',
-client_id: 'YOUR YOUKUOPENAPI CLIENT_ID',
-vid: 'XNDQwNTk0Mjk5Ng==',
-newPlayer: true
-});
-</script>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XNDQwNTk0Mjk5Ng==' frameborder=0 'allowfullscreen'></iframe>
